@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD
 gem 'rails', '3.2.8'
+=======
+gem 'rails', '3.2.9'
+>>>>>>> 01989314cbb29137f4a90ec5c879c401e8e562f9
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -21,7 +25,10 @@ group :assets do
 end
 
 gem 'jquery-rails'
+<<<<<<< HEAD
 gem 'kaminari'
+=======
+>>>>>>> 01989314cbb29137f4a90ec5c879c401e8e562f9
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

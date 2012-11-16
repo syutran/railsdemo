@@ -1,8 +1,11 @@
 Demo::Application.routes.draw do
+<<<<<<< HEAD
 
   get "welcome/say_hello" => "welcome#say"
   get "welcom" => "welcome#index"
 
+=======
+>>>>>>> 01989314cbb29137f4a90ec5c879c401e8e562f9
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -17,7 +20,10 @@ Demo::Application.routes.draw do
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 
+<<<<<<< HEAD
   resources :events
+=======
+>>>>>>> 01989314cbb29137f4a90ec5c879c401e8e562f9
   # Sample resource route with options:
   #   resources :products do
   #     member do
@@ -54,7 +60,10 @@ Demo::Application.routes.draw do
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
   # root :to => 'welcome#index'
+<<<<<<< HEAD
   
+=======
+>>>>>>> 01989314cbb29137f4a90ec5c879c401e8e562f9
 
   # See how all your routes lay out with "rake routes"
 
